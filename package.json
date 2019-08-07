@@ -1,0 +1,26 @@
+{
+  "name": "ftptransfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ftp.js",
+  "dependencies": {
+    "chokidar": "^2.0.3",
+    "ftp": "^0.3.10",
+    "pkg": "^4.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start":"node ftp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjj1227/ftptransferbynode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjj1227/ftptransferbynode/issues"
+  },
+  "homepage": "https://github.com/hjj1227/ftptransferbynode#readme"
+}
